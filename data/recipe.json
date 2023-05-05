@@ -1,0 +1,263 @@
+[
+    {
+      "_id": "1",
+      "img": "https://keviniscooking.com/wp-content/uploads/2017/04/Tacos-Al-Pastor-square.jpg",
+      "chef_id": 1,
+      "recipe_name": "Tacos al Pastor",
+      "ingredients": [
+        "pork shoulder",
+        "achiote paste",
+        "pineapple",
+        "corn tortillas",
+        "onion"
+      ],
+      "cooking_method": "Marinate pork in achiote paste, then roast on a spit. Serve in corn tortillas with diced pineapple and onion.",
+      "rating": 4.5
+    },
+    {
+      "_id": "2",
+      "img": "https://www.goya.com/media/4255/stuffed-chileschiles-rellenos.jpg?quality=80",
+      "chef_id": 1,
+      "recipe_name": "Chiles Rellenos",
+      "ingredients": [
+        "poblano peppers",
+        "ground beef",
+        "tomatoes",
+        "onion",
+        "garlic"
+      ],
+      "cooking_method": "Roast and peel poblano peppers, then stuff with ground beef and tomato sauce. Bake until bubbly and golden.",
+      "rating": 4.2
+    },
+    {
+      "_id": "3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82wF2Drz2UlNyiDvbCzQ6pOHJVEEN0_OH9w&usqp=CAU",
+      "chef_id": 1,
+      "recipe_name": "Enchiladas Verdes",
+      "ingredients": [
+        "corn tortillas",
+        "chicken",
+        "tomatillos",
+        "jalapeno peppers",
+        "cilantro"
+      ],
+      "cooking_method": "Blend tomatillos, jalapenos, and cilantro into a sauce. Dip tortillas in sauce, fill with shredded chicken, and roll up. Top with more sauce and bake.",
+      "rating": 4.8
+    },
+    {
+      "_id": "4",
+      "img": "https://www.allrecipes.com/thmb/b8kXzRoBy3fKeri26MSRMDAm8Uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4x3-KH_063022_AR11010-ea69bfcf004f44dba1651e4ec63dc62f.jpg",
+      "chef_id": 2,
+      "recipe_name": "Quesadillas",
+      "ingredients": [
+        "flour tortillas",
+        "cheese",
+        "chopped green onions",
+        "sour cream",
+        "salsa"
+      ],
+      "cooking_method": "Heat tortillas, sprinkle with cheese and green onions, fold in half, and cook until cheese is melted. Serve with sour cream and salsa.",
+      "rating": 4.0
+    },
+  
+    {
+      "_id": "5",
+      "img": "https://www.allrecipes.com/thmb/e2l2Ea6nA0yWeJ8yeOzAIIF6m5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pico-de-Gallo-1-mfs-018-69ff708b2e064dceb67e3fbc815c3d4b.jpg",
+      "chef_id": 2,
+      "recipe_name": "Pico de Gallo",
+      "ingredients": [
+        "tomatoes",
+        "onion",
+        "jalapeno peppers",
+        "lime juice",
+        "cilantro"
+      ],
+      "cooking_method": "Dice tomatoes, onion, and jalapenos. Mix with lime juice and cilantro. Serve with tortilla chips.",
+      "rating": 4.6
+    },
+    {
+      "_id": "6",
+      "img": "https://rb.gy/zz6jx",
+      "chef_id": 2,
+      "recipe_name": "Tamales",
+      "ingredients": [
+        "corn husks",
+        "masa harina",
+        "chicken broth",
+        "pork",
+        "ancho chili powder"
+      ],
+      "cooking_method": "Soak corn husks, then spread masa dough on each one. Add filling of pork and chili powder, wrap, and steam until cooked.",
+      "rating": 4.3
+    },
+    {
+      "_id": "7",
+      "img": "https://www.giallozafferano.com/images/255-25549/Guacamole_650x433_wm.jpg",
+      "chef_id": 3,
+      "recipe_name": "Guacamole",
+      "ingredients": ["avocado", "onion", "tomato", "cilantro", "lime juice"],
+      "cooking_method": "Mash avocados, then mix in diced onion, tomato, and cilantro. Add lime juice and salt to taste. Serve with tortilla chips.",
+      "rating": 4.7
+    },
+    {
+      "_id": "8",
+      "img": "https://rb.gy/gyce7",
+      "chef_id": 3,
+      "recipe_name": "Sopes",
+      "ingredients": [
+        "masa harina",
+        "pinto beans",
+        "queso fresco",
+        "lettuce",
+        "sour cream"
+      ],
+      "cooking_method": "Mix masa dough and shape into small cups. Fryuntil golden and crisp. Fill with beans, cheese, lettuce, and sour cream.",
+      "rating": 4.1
+    },
+    {
+      "_id": "9",
+      "img": "https://hips.hearstapps.com/hmg-prod/images/delish-202002-pozole-0392-landscape-pf-1582315071.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+      "chef_id": 3,
+      "recipe_name": "Pozole",
+      "ingredients": [
+        "hominy",
+        "pork shoulder",
+        "ancho chili powder",
+        "garlic",
+        "oregano"
+      ],
+      "cooking_method": "Simmer hominy, pork, chili powder, garlic, and oregano in a broth until the meat is tender. Serve with lime wedges and toppings like radishes, avocado, and shredded cabbage.",
+      "rating": 4.4
+    },
+    {
+      "_id": "10",
+      "img": "https://rb.gy/pm0bk",
+      "chef_id": 4,
+      "recipe_name": "Tostadas",
+      "ingredients": [
+        "corn tortillas",
+        "refried beans",
+        "shredded chicken",
+        "lettuce",
+        "salsa"
+      ],
+      "cooking_method": "Fry or bake tortillas until crispy. Top with refried beans, shredded chicken, lettuce, and salsa.",
+      "rating": 4.2
+    },
+    {
+      "_id": "11",
+      "img": "https://rb.gy/44ymm",
+      "chef_id": 4,
+      "recipe_name": "Chimichangas",
+      "ingredients": [
+        "flour tortillas",
+        "ground beef",
+        "black beans",
+        "cheddar cheese",
+        "sour cream"
+      ],
+      "cooking_method": "Fill tortillas with cooked ground beef, black beans, and cheese. Fold and fry until crispy. Serve with sour cream.",
+      "rating": 4.0
+    },
+    {
+      "_id": "12",
+      "img": "https://rb.gy/v3syf",
+      "chef_id": 4,
+      "recipe_name": "Huevos Rancheros",
+      "ingredients": [
+        "corn tortillas",
+        "eggs",
+        "salsa",
+        "black beans",
+        "avocado"
+      ],
+      "cooking_method": "Fry tortillas, then top with eggs cooked to your preference, salsa, black beans, and sliced avocado.",
+      "rating": 4.5
+    },
+    {
+      "_id": "13",
+      "img": "https://rb.gy/euen4",
+      "chef_id": 5,
+      "recipe_name": "Ceviche",
+      "ingredients": ["shrimp", "lime juice", "tomato", "onion", "cilantro"],
+      "cooking_method": "Marinate cooked shrimp in lime juice until they turn pink. Mix with diced tomato, onion, and cilantro. Serve chilled.",
+      "rating": 4.6
+    },
+    {
+      "_id": "14",
+      "img": "https://rb.gy/yat5l",
+      "chef_id": 5,
+      "recipe_name": "Carne Asada",
+      "ingredients": [
+        "skirt steak",
+        "lime juice",
+        "garlic",
+        "cilantro",
+        "corn tortillas"
+      ],
+      "cooking_method": "Marinate steak in lime juice, garlic, and cilantro. Grill or broil until charred and cooked to your liking. Serve with tortillas.",
+      "rating": 4.3
+    },
+    {
+      "_id": "15",
+      "img": "https://rb.gy/6pt5z",
+      "chef_id": 5,
+      "recipe_name": "Salsa Roja",
+      "ingredients": [
+        "tomatoes",
+        "jalapeno peppers",
+        "garlic",
+        "onion",
+        "cilantro"
+      ],
+      "cooking_method": "Roast tomatoes, jalapenos, garlic, and onion until charred. Blend with cilantro and salt to taste.",
+      "rating": 4.8
+    },
+    {
+      "_id": "16",
+      "img": "https://www.thespruceeats.com/thmb/dMHOpUVjRUeVZc2G9XrpcJIDPdM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mexican-torta-5441445-hero-01-5542f147180844859a696f9fc01825f4.jpg",
+      "chef_id": 6,
+      "recipe_name": "Torta",
+      "ingredients": [
+        "bolillo bread",
+        "refried beans",
+        "grilled steak",
+        "avocado",
+        "sour cream"
+      ],
+      "cooking_method": "Slice bread, spread with refried beans, and top with grilled steak, sliced avocado, and sour cream.",
+      "rating": 4.2
+    },
+    {
+      "_id": "17",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Portada-chilaquiles-rojos.jpg",
+      "chef_id": 6,
+      "recipe_name": "Chilaquiles",
+      "ingredients": [
+        "tortilla chips",
+        "tomato sauce",
+        "shredded chicken",
+        "queso fresco",
+        "sour cream"
+      ],
+      "cooking_method": "Simmer tortilla chips in tomato sauce until softened. Top with shredded chicken, crumbled queso fresco, and sour cream.",
+      "rating": 4.1
+    },
+    {
+      "_id": "18",
+      "img": "https://rb.gy/8vcx8",
+      "chef_id": 6,
+      "recipe_name": "Pico de Gallo",
+      "ingredients": [
+        "tomatoes",
+        "onion",
+        "jalapeno peppers",
+        "lime juice",
+        "cilantro"
+      ],
+      "cooking_method": "Dice tomatoes, onion, and jalapeno peppers. Mix with lime juice and cilantro.",
+      "rating": 4.5
+    }
+  ]
+  
+  
