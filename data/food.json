@@ -2,7 +2,9 @@
   {
     "_id": "1",
     "img": "/images/menu-img/rice-item/morog-polao.jpg",
-    "Category_id": 1,
+    "category_id": 1,
+    "chef_id": 1,
+    "rating": 4.6,
     "name": "Morog Polao",
     "ingredients": [
       {
@@ -84,7 +86,9 @@
   {
     "_id": "2",
     "img": "/images/menu-img/rice-item/Kacchi-Biryani.jpg",
-    "Category_id": 1,
+    "category_id": 1,
+    "chef_id": 1,
+    "rating": 4.6,
     "name": "Kacchi Biriyani",
     "ingredients": [
       {
@@ -154,7 +158,9 @@
   {
     "_id": "3",
     "img": "/images/menu-img/rice-item/Panta_Ilish.jpg",
-    "Category_id": 1,
+    "category_id": 1,
+    "chef_id": 1,
+    "rating": 4.6,
     "name": "Panta Ilish",
     "ingredients": [
       {
@@ -206,7 +212,9 @@
   {
     "_id": "4",
     "img": "/images/menu-img/rice-item/bhuna-khichuri.jpg",
-    "Category_id": 1,
+    "category_id": 1,
+    "chef_id": 2,
+    "rating": 4.6,
     "name": "Bhuna Khichuri",
     "Ingredients": [
       {
@@ -299,7 +307,9 @@
   {
     "_id": "5",
     "img": "/images/menu-img/fish-item/Chingri_Malai_Curry.jpg",
-    "Category_id": 2,
+    "category_id": 2,
+    "chef_id": 2,
+    "rating": 4.7,
     "name": "Chingri Malai Curry",
     "type": "Main Dish",
     "ingredients": [
@@ -382,7 +392,9 @@
   {
     "_id": "6",
     "img": "/images/menu-img/fish-item/sorshe-ilish.jpg",
-    "Category_id": 2,
+    "category_id": 2,
+    "chef_id": 2,
+    "rating": 4.7,
     "name": "Sorshe Ilish",
     "type": "Main Dish",
     "ingredients": [
@@ -455,7 +467,9 @@
   {
     "_id": "7",
     "img": "/images/menu-img/fish-item/Shutki.jpg",
-    "Category_id": 2,
+    "category_id": 2,
+    "chef_id": 3,
+    "rating": 4.7,
     "name": "Shutki Bhuna",
     "type": "Main Dish",
     "cuisine": "Bangladeshi",
@@ -531,8 +545,10 @@
   },
   {
     "_id": "8",
-    "img": "/images/menu-img/fish-item/sorshe-ilish.jpg",
-    "Category_id": 2,
+    "img": "/images/menu-img/fish-item/Ilish_Bhaja.jpg",
+    "category_id": 2,
+    "chef_id": 3,
+    "rating": 4.7,
     "name": "Ilish Bhaja",
     "type": "Appetizer",
     "cuisine": "Bengali",
@@ -570,7 +586,9 @@
   {
     "_id": "9",
     "img": "/images/menu-img/meat-item/Beef_curry.jpg",
-    "Category_id": 3,
+    "category_id": 3,
+    "chef_id": 3,
+    "rating": 4.8,
     "name": "Beef Curry",
     "type": "Main Dish",
     "cuisine": "Indian",
@@ -652,7 +670,9 @@
   {
     "_id": "10",
     "img": "/images/menu-img/meat-item/chicken_roast.jpg",
-    "Category_id": 3,
+    "category_id": 3,
+    "chef_id": 4,
+    "rating": 4.8,
     "name": "Chicken Roast",
     "type": "Main Dish",
     "cuisine": "International",
@@ -716,7 +736,9 @@
   {
     "_id": "11",
     "img": "/images/menu-img/meat-item/Kala_bhuna.jpg",
-    "Category_id": 3,
+    "category_id": 3,
+    "chef_id": 4,
+    "rating": 4.8,
     "name": "Kala Bhuna",
     "type": "Main Dish",
     "cuisine": "Bangladeshi",
@@ -793,7 +815,9 @@
   {
     "_id": "12",
     "img": "/images/menu-img/meat-item/mutton-curry.jpg",
-    "Category_id": 3,
+    "category_id": 3,
+    "chef_id": 4,
+    "rating": 4.8,
     "name": "Mutton Curry",
     "type": "Main Dish",
     "cuisine": "Indian",
@@ -874,9 +898,11 @@
   {
     "_id": "13",
     "img": "/images/menu-img/pitha/Bhapa_Pitha.jpg",
-    "Category_id": 4,
+    "category_id": 4,
+    "chef_id": 5,
+    "rating": 4.5,
     "name": "Bhapa Pitha",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -919,9 +945,11 @@
   {
     "_id": "14",
     "img": "/images/menu-img/pitha/Nokshi_pitha.jpg",
-    "Category_id": 4,
+    "category_id": 4,
+    "chef_id": 5,
+    "rating": 4.5,
     "name": "Nakshi Pitha",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -975,9 +1003,11 @@
   {
     "_id": "15",
     "img": "/images/menu-img/dessert-item/Chamcham.jpg",
-    "Category_id": 5,
+    "category_id": 5,
+    "chef_id": 5,
+    "rating": 4.7,
     "name": "Chomchom",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Bengali",
     "ingredients": [
       {
@@ -1032,9 +1062,11 @@
   {
     "_id": "16",
     "img": "/images/menu-img/dessert-item/Falooda.jpg",
-    "Category_id": 5,
+    "category_id": 5,
+    "chef_id": 6,
+    "rating": 4.7,
     "name": "Falooda",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -1087,9 +1119,11 @@
   {
     "_id": "17",
     "img": "/images/menu-img/dessert-item/jilapi.jpg",
-    "Category_id": 5,
+    "category_id": 5,
+    "chef_id": 6,
+    "rating": 4.7,
     "name": "Jilapi",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -1156,9 +1190,11 @@
   {
     "_id": "18",
     "img": "/images/menu-img/dessert-item/payesh.jpg",
-    "Category_id": 5,
+    "category_id": 5,
+    "chef_id": 6,
+    "rating": 4.7,
     "name": "Payesh",
-    "type": "Dessert",
+    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -1213,7 +1249,9 @@
   {
     "_id": "19",
     "img": "/images/menu-img/drinks/borhani.jpg",
-    "Category_id": 6,
+    "category_id": 6,
+    "chef_id": 7,
+    "rating": 4.6,
     "name": "Borhani",
     "type": "Beverage",
     "cuisine": "Bangladeshi",
@@ -1273,7 +1311,9 @@
   {
     "_id": "20",
     "img": "/images/menu-img/drinks/lacci.jpg",
-    "Category_id": 6,
+    "chef_id": 7,
+    "category_id": 6,
+    "rating": 4.6,
     "name": "Lassi",
     "type": "Beverage",
     "cuisine": "Indian",

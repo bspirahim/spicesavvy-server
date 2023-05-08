@@ -17,12 +17,12 @@
     },
     {
         "id": "4",
-        "category_name": "Pitha",
+        "category_name": "Pitha Item",
         "img":"/images/menu-banner/pitha.jpg"
     },
     {
         "id": "5",
-        "category_name": "Sweets and Dessert",
+        "category_name": "Dessert",
         "img":"/images/menu-banner/dessert.jpg"
     },
     {
