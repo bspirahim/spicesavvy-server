@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "category_name": "Rice Item",
+        "img":"/images/menu-banner/rice.jpg"
+        
+    },
+    {
+        "id": "2",
+        "category_name": "Fish Item",
+        "img":"/images/menu-banner/fish.jpg"
+    },
+    {
+        "id": "3",
+        "category_name": "Meat Item",
+        "img":"/images/menu-banner/meat.jpg"
+    },
+    {
+        "id": "4",
+        "category_name": "Pitha",
+        "img":"/images/menu-banner/pitha.jpg"
+    },
+    {
+        "id": "5",
+        "category_name": "Sweets and Dessert",
+        "img":"/images/menu-banner/dessert.jpg"
+    },
+    {
+        "id": "6",
+        "category_name": "Drinks",
+        "img":"/images/menu-banner/drinks.jpg"
+    }
+
+]

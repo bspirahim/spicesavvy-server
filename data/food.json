@@ -1,0 +1,1318 @@
+[
+  {
+    "_id": "1",
+    "img": "/images/menu-img/rice-item/morog-polao.jpg",
+    "Category_id": 1,
+    "name": "Morog Polao",
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Chicken",
+        "quantity": "1 kg, cut into medium pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "Ginger paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Garlic paste",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Plain yogurt",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "4-5, slit"
+      },
+      {
+        "name": "Cinnamon stick",
+        "quantity": "1 inch"
+      },
+      {
+        "name": "Cardamom pods",
+        "quantity": "3-4"
+      },
+      {
+        "name": "Cloves",
+        "quantity": "3-4"
+      },
+      {
+        "name": "Bay leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Saffron strands",
+        "quantity": "1/4 tsp, soaked in warm milk"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1/4 cup"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "4 cups"
+      }
+    ],
+    "instructions": [
+      "Wash the rice and soak it in water for 30 minutes.",
+      "Heat the ghee in a large pot. Add the cinnamon stick, cardamom pods, cloves, and bay leaf, and fry for a few seconds.",
+      "Add the sliced onions and fry until they turn golden brown.",
+      "Add the ginger and garlic paste, and fry for another minute.",
+      "Add the chicken pieces and fry until they are golden brown.",
+      "Add the plain yogurt, green chili, and salt. Stir well.",
+      "Add the soaked rice and fry for a few minutes until the rice is coated with the spices.",
+      "Add the water and saffron soaked in warm milk. Stir well.",
+      "Bring the mixture to a boil. Then, reduce the heat to low and cover the pot with a lid.",
+      "Cook for 20-25 minutes or until the rice is fully cooked and the water has evaporated.",
+      "Remove from heat and let it rest for 10 minutes.",
+      "Fluff the rice with a fork and serve hot with raita or salad."
+    ]
+  },
+  {
+    "_id": "2",
+    "img": "/images/menu-img/rice-item/Kacchi-Biryani.jpg",
+    "Category_id": 1,
+    "name": "Kacchi Biriyani",
+    "ingredients": [
+      {
+        "name": "Basmati rice",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Mutton",
+        "quantity": "1 kg, cut into pieces"
+      },
+      {
+        "name": "Yogurt",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "Garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Ginger paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "5-6, chopped"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Saffron",
+        "quantity": "1/4 tsp, dissolved in 1/4 cup of warm milk"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Whole spices",
+        "quantity": "5-6 cardamom pods, 5-6 cloves, 1 cinnamon stick"
+      }
+    ],
+    "instructions": [
+      "Wash the basmati rice and soak it in water for 30 minutes.",
+      "In a mixing bowl, marinate the mutton pieces with yogurt, garlic paste, ginger paste, lemon juice, green chili, and salt. Keep aside for 2 hours.",
+      "In a large pot, boil water with whole spices and salt. Add the soaked rice and cook for 7-8 minutes. Drain the water and keep the rice aside.",
+      "In a deep-bottomed pan, heat ghee over medium heat. Add sliced onions and fry until they turn golden brown.",
+      "Add the marinated mutton pieces and cook until the meat is tender and the gravy is thick.",
+      "Preheat the oven to 180°C. In a large baking dish, spread a layer of cooked rice at the bottom.",
+      "Add the mutton gravy on top of the rice layer, spreading it evenly.",
+      "Add another layer of rice on top of the mutton gravy. Repeat the process until all the rice and mutton are used up.",
+      "Pour the saffron milk over the rice and cover the baking dish with foil.",
+      "Bake in the preheated oven for 30-35 minutes.",
+      "Remove the foil and bake for an additional 5-10 minutes to allow the top layer of rice to crisp up.",
+      "Garnish with fried onions and serve hot with raita and salad."
+    ]
+  },
+  {
+    "_id": "3",
+    "img": "/images/menu-img/rice-item/Panta_Ilish.jpg",
+    "Category_id": 1,
+    "name": "Panta Ilish",
+    "ingredients": [
+      {
+        "name": "Hilsa fish",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Water",
+        "quantity": "8 cups"
+      },
+      {
+        "name": "Cooked rice",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Salt",
+        "quantity": "2 tsp"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "4 tbsp"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "4-5, chopped"
+      },
+      {
+        "name": "Coriander leaves",
+        "quantity": "1/4 cup, chopped"
+      }
+    ],
+    "instructions": [
+      "Clean and wash the hilsa fish thoroughly. Cut it into pieces and keep aside.",
+      "Boil 6 cups of water in a large pot. Add the hilsa fish pieces and 1 tsp of salt to the pot.",
+      "Cook the fish over medium heat for about 15-20 minutes, until it is fully cooked.",
+      "Remove the fish pieces from the pot and allow them to cool down.",
+      "In a separate pot, mix the cooked rice with 2 cups of water and 1 tsp of salt. Leave it overnight to ferment.",
+      "In the morning, mix the fermented rice with the remaining 2 cups of water to make a watery consistency.",
+      "Add the cooked fish pieces to the rice mixture and mix well.",
+      "Heat the mustard oil in a pan. Add the chopped onion and green chili, and fry until the onion turns golden brown.",
+      "Pour the fried onion and green chili mixture over the rice and fish mixture.",
+      "Garnish with chopped coriander leaves and serve chilled."
+    ]
+  },
+  {
+    "_id": "4",
+    "img": "/images/menu-img/rice-item/bhuna-khichuri.jpg",
+    "Category_id": 1,
+    "name": "Bhuna Khichuri",
+    "Ingredients": [
+      {
+        "name": "Gobindobhog rice",
+        "Quantity": "1 cup"
+      },
+      {
+        "name": "Yellow moong dal",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "name": "Potato",
+        "Quantity": "2, cubed"
+      },
+      {
+        "name": "Carrot",
+        "Quantity": "1, cubed"
+      },
+      {
+        "name": "Cauliflower",
+        "Quantity": "1/2 cup, chopped"
+      },
+      {
+        "name": "Green peas",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "name": "Ginger paste",
+        "Quantity": "1 tbsp"
+      },
+      {
+        "name": "Garlic paste",
+        "Quantity": "1 tbsp"
+      },
+      {
+        "name": "Onion",
+        "Quantity": "1, chopped"
+      },
+      {
+        "name": "Tomato",
+        "Quantity": "1, chopped"
+      },
+      {
+        "name": "Turmeric powder",
+        "Quantity": "1/2 tsp"
+      },
+      {
+        "name": "Cumin powder",
+        "Quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "Quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "Quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "Quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "Quantity": "3 tbsp"
+      },
+      {
+        "name": "Ghee",
+        "Quantity": "2 tbsp"
+      },
+      {
+        "name": "Water",
+        "Quantity": "3 cups"
+      }
+    ],
+    "instructions": [
+      "Wash the rice and dal together and soak in water for at least 30 minutes. Drain and keep aside.",
+      "Heat oil in a pan and add the cubed potatoes, carrots, cauliflower, and green peas. Fry for 2-3 minutes and keep aside.",
+      "In the same pan, add the chopped onion and fry until golden brown.",
+      "Add the ginger and garlic paste to the pan and fry for a minute.",
+      "Add the chopped tomato and fry until it turns mushy.",
+      "Add turmeric powder, cumin powder, coriander powder, red chili powder, and salt to the pan. Fry for 1-2 minutes.",
+      "Add the rice and dal mixture to the pan and fry for 2-3 minutes.",
+      "Add the fried vegetables to the pan and mix well.",
+      "Add 3 cups of water to the pan and mix well. Cover the pan with a lid and let it cook for 20-25 minutes on low flame.",
+      "Once the khichuri is cooked, add ghee and mix well.",
+      "Serve hot with papad and your favorite pickle."
+    ]
+  },
+  {
+    "_id": "5",
+    "img": "/images/menu-img/fish-item/Chingri_Malai_Curry.jpg",
+    "Category_id": 2,
+    "name": "Chingri Malai Curry",
+    "type": "Main Dish",
+    "ingredients": [
+      {
+        "name": "Prawns",
+        "quantity": "500g"
+      },
+      {
+        "name": "Coconut milk",
+        "quantity": "400ml"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "3 cloves"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 inch"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "2"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Bay leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Cinnamon stick",
+        "quantity": "1 inch"
+      },
+      {
+        "name": "Cardamom pods",
+        "quantity": "2"
+      }
+    ],
+    "instructions": [
+      "Heat oil in a pan and add the bay leaf, cinnamon stick, and cardamom pods. Fry for a few seconds until fragrant.",
+      "Add the chopped onion and fry until golden brown.",
+      "Add the minced garlic and grated ginger, and fry for another minute.",
+      "Add the turmeric powder, red chili powder, coriander powder, cumin powder, and salt. Fry for a minute or two, until the spices are fragrant.",
+      "Add the coconut milk and green chilies. Bring to a boil and let simmer for 5 minutes.",
+      "Add the prawns and cook for another 5 minutes, until they are pink and cooked through.",
+      "Add the ghee and give everything a stir.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "_id": "6",
+    "img": "/images/menu-img/fish-item/sorshe-ilish.jpg",
+    "Category_id": 2,
+    "name": "Sorshe Ilish",
+    "type": "Main Dish",
+    "ingredients": [
+      {
+        "name": "Hilsa fish",
+        "quantity": "4-5 pieces"
+      },
+      {
+        "name": "Mustard seeds",
+        "quantity": "4 tbsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "2-3"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "4 tbsp"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "4 cloves"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "Take 2 tbsp of mustard seeds, turmeric powder, and salt in a grinder. Add a little water and grind into a smooth paste.",
+      "Marinate the hilsa fish pieces with the mustard paste and green chilies. Keep aside for 10-15 minutes.",
+      "Heat mustard oil in a pan and fry the fish pieces until golden brown. Keep aside.",
+      "In the same pan, add the remaining mustard seeds and fry until they start to pop.",
+      "Add the chopped onion and fry until golden brown.",
+      "Add the minced garlic and fry for another minute.",
+      "Add the cumin powder, coriander powder, red chili powder, sugar, and salt. Fry for a minute or two, until the spices are fragrant.",
+      "Add water and bring to a boil. Let simmer for 2-3 minutes.",
+      "Add the fried fish pieces and green chilies. Cover and simmer for another 5-7 minutes, until the fish is cooked through and the gravy has thickened.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "_id": "7",
+    "img": "/images/menu-img/fish-item/Shutki.jpg",
+    "Category_id": 2,
+    "name": "Shutki Bhuna",
+    "type": "Main Dish",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Dried fish",
+        "quantity": "250g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 large",
+        "notes": "finely sliced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "4 cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium",
+        "notes": "chopped"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "2-3",
+        "notes": "slit"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3-4 tbsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Soak the dried fish in water for at least 30 minutes to soften it. Drain the water and rinse the fish with fresh water.",
+      "Heat oil in a pan and fry the fish until golden brown. Remove from the pan and set aside.",
+      "In the same pan, add more oil if necessary and fry the sliced onions until golden brown.",
+      "Add the minced garlic and grated ginger, and fry for another minute.",
+      "Add the chopped tomato, green chilies, and all the spices (turmeric powder, cumin powder, coriander powder, red chili powder, and salt). Fry for a few minutes until the tomato is soft and everything is fragrant.",
+      "Add the fried fish back to the pan and stir to combine with the masala. Add 1/2 cup of water and bring to a boil.",
+      "Reduce the heat to low and let simmer for 10-15 minutes, until the fish is cooked through and the sauce has thickened.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "_id": "8",
+    "img": "/images/menu-img/fish-item/sorshe-ilish.jpg",
+    "Category_id": 2,
+    "name": "Ilish Bhaja",
+    "type": "Appetizer",
+    "cuisine": "Bengali",
+    "ingredients": [
+      {
+        "name": "Hilsa fish",
+        "quantity": "4 pieces",
+        "notes": "cleaned and sliced"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "4 tbsp"
+      }
+    ],
+    "instructions": [
+      "Rub the fish pieces with turmeric powder, red chili powder, and salt.",
+      "Heat the mustard oil in a frying pan over medium-high heat.",
+      "When the oil is hot, carefully place the fish pieces in the pan. Fry them for 2-3 minutes on each side, until they are golden brown and crispy.",
+      "Remove the fish from the pan and place them on a paper towel to drain excess oil.",
+      "Serve hot with steamed rice and lemon wedges."
+    ]
+  },
+  {
+    "_id": "9",
+    "img": "/images/menu-img/meat-item/Beef_curry.jpg",
+    "Category_id": 3,
+    "name": "Beef Curry",
+    "type": "Main Dish",
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "name": "Beef",
+        "quantity": "500g",
+        "notes": "cut into small pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2",
+        "notes": "finely chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "4 cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "2",
+        "notes": "finely chopped"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "2",
+        "notes": "slit"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Coriander leaves",
+        "quantity": "a handful",
+        "notes": "chopped, for garnish"
+      }
+    ],
+    "instructions": [
+      "Heat oil in a pan and add the chopped onions. Fry until golden brown.",
+      "Add the minced garlic and grated ginger, and fry for another minute.",
+      "Add the turmeric powder, coriander powder, cumin powder, red chili powder, and salt. Fry for a minute or two, until the spices are fragrant.",
+      "Add the chopped tomatoes and green chilies. Fry for a few minutes, until the tomatoes have broken down and become saucy.",
+      "Add the beef and fry for a few minutes, until the meat is browned on all sides.",
+      "Add water and bring to a boil. Reduce the heat and let simmer for 30-40 minutes, until the beef is tender and the sauce has thickened.",
+      "Garnish with chopped coriander leaves and serve hot with rice or bread."
+    ]
+  },
+  {
+    "_id": "10",
+    "img": "/images/menu-img/meat-item/chicken_roast.jpg",
+    "Category_id": 3,
+    "name": "Chicken Roast",
+    "type": "Main Dish",
+    "cuisine": "International",
+    "ingredients": [
+      {
+        "name": "Whole chicken",
+        "quantity": "1",
+        "notes": "skin on"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "6 cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Paprika",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Rosemary",
+        "quantity": "1 tbsp",
+        "notes": "chopped"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Butter",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F (190°C).",
+      "In a small bowl, mix together the garlic, ginger, lemon juice, salt, black pepper, paprika, and rosemary.",
+      "Rub the spice mixture all over the chicken, including under the skin.",
+      "Place the chicken in a roasting pan and drizzle with olive oil.",
+      "Roast the chicken in the preheated oven for 1 hour and 30 minutes, or until the internal temperature of the thickest part of the chicken reaches 165°F (74°C).",
+      "Remove the chicken from the oven and let it rest for 10 minutes.",
+      "Melt the butter in a small saucepan over low heat.",
+      "Carve the chicken and drizzle the melted butter over the top before serving."
+    ]
+  },
+  {
+    "_id": "11",
+    "img": "/images/menu-img/meat-item/Kala_bhuna.jpg",
+    "Category_id": 3,
+    "name": "Kala Bhuna",
+    "type": "Main Dish",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Beef",
+        "quantity": "500g",
+        "notes": "cut into small pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2",
+        "notes": "finely sliced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "6 cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "2 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "4",
+        "notes": "slit"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2",
+        "notes": "chopped"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      }
+    ],
+    "instructions": [
+      "Heat the oil in a pan and fry the onions until golden brown.",
+      "Add the minced garlic and grated ginger, and fry for another minute.",
+      "Add the beef and fry on high heat for 5-6 minutes until browned.",
+      "Add the turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Fry for a few minutes until the spices are fragrant.",
+      "Add the chopped tomatoes and green chilies. Fry until the tomatoes have softened and the oil has separated from the masala.",
+      "Add a cup of water, cover the pan, and simmer for 30-40 minutes until the beef is cooked through and the gravy has thickened.",
+      "Serve hot with rice or naan bread."
+    ]
+  },
+  {
+    "_id": "12",
+    "img": "/images/menu-img/meat-item/mutton-curry.jpg",
+    "Category_id": 3,
+    "name": "Mutton Curry",
+    "type": "Main Dish",
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "quantity": "500g",
+        "notes": "cut into small pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2",
+        "notes": "finely chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "6 cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "2 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2",
+        "notes": "chopped"
+      },
+      {
+        "name": "Yogurt",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Red chili powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "In a pressure cooker, heat the oil and fry the onions until golden brown.",
+      "Add the minced garlic and grated ginger and fry for another minute.",
+      "Add the mutton pieces and fry on high heat until browned.",
+      "Add the turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Fry for a few minutes until the spices are fragrant.",
+      "Add the chopped tomatoes and fry until the oil has separated from the masala.",
+      "Add the yogurt and continue to cook for a few minutes, stirring constantly.",
+      "Add 2 cups of water, cover the pressure cooker, and cook until the mutton is tender (usually about 25 minutes).",
+      "Sprinkle garam masala on top and serve hot with rice or naan bread."
+    ]
+  },
+  {
+    "_id": "13",
+    "img": "/images/menu-img/pitha/Bhapa_Pitha.jpg",
+    "Category_id": 4,
+    "name": "Bhapa Pitha",
+    "type": "Dessert",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Rice flour",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Coconut",
+        "quantity": "1/2 cup",
+        "notes": "grated"
+      },
+      {
+        "name": "Jaggery",
+        "quantity": "1/2 cup",
+        "notes": "grated"
+      },
+      {
+        "name": "Cardamom powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "In a mixing bowl, add rice flour, grated coconut, grated jaggery, cardamom powder, and salt. Mix well.",
+      "Gradually add water to the mixture while stirring constantly to make a smooth batter. Make sure there are no lumps.",
+      "Grease a baking dish or thali with oil. Pour the batter into the dish and level it with a spoon.",
+      "Cover the dish with a lid or foil. Heat a pot of water on the stove and bring it to a boil.",
+      "Place the baking dish into the pot, cover it and steam for 30-35 minutes or until the pitha is cooked through.",
+      "Remove from the heat and let it cool for a few minutes before cutting into pieces.",
+      "Serve hot and enjoy your delicious Bhapa Pitha!"
+    ]
+  },
+  {
+    "_id": "14",
+    "img": "/images/menu-img/pitha/Nokshi_pitha.jpg",
+    "Category_id": 4,
+    "name": "Nakshi Pitha",
+    "type": "Dessert",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Rice flour",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Milk",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Jaggery",
+        "quantity": "1 cup",
+        "notes": "grated"
+      },
+      {
+        "name": "Coconut",
+        "quantity": "1 cup",
+        "notes": "grated"
+      },
+      {
+        "name": "Cardamom",
+        "quantity": "5-6 pods",
+        "notes": "crushed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "as needed"
+      }
+    ],
+    "instructions": [
+      "In a mixing bowl, combine rice flour and salt. Gradually add water and milk to form a smooth batter. The batter should be thin enough to spread but not too thin.",
+      "In a separate pan, heat jaggery on low heat until it melts. Add grated coconut and crushed cardamom pods. Mix well and remove from heat.",
+      "Heat a non-stick pan over medium heat. Grease the pan with oil.",
+      "Pour a small amount of batter onto the pan and spread it out in a circular motion to form a thin crepe.",
+      "Add a spoonful of the jaggery-coconut mixture onto the center of the crepe. Fold the crepe over the mixture to form a half-moon shape.",
+      "Use a toothpick or the tip of a sharp knife to make decorative patterns on the top of the pitha.",
+      "Cook the pitha on both sides until golden brown.",
+      "Repeat the process until all the batter and filling is used up.",
+      "Serve hot or at room temperature as a dessert or snack."
+    ]
+  },
+  {
+    "_id": "15",
+    "img": "/images/menu-img/dessert-item/Chamcham.jpg",
+    "Category_id": 5,
+    "name": "Chomchom",
+    "type": "Dessert",
+    "cuisine": "Bengali",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": "1 liter"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "2 tbsp",
+        "notes": "diluted in 1/4 cup water"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Water",
+        "quantity": "4 cups"
+      },
+      {
+        "name": "Cardamom powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Saffron",
+        "quantity": "a few strands",
+        "notes": "soaked in 2 tbsp of warm milk"
+      },
+      {
+        "name": "Pistachios",
+        "quantity": "1/4 cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "Silver leaf",
+        "quantity": "for garnish"
+      }
+    ],
+    "instructions": [
+      "In a large pot, bring the milk to a boil over medium heat, stirring occasionally.",
+      "Add the diluted lemon juice to the boiling milk and stir until the milk solids separate from the whey. Turn off the heat.",
+      "Pour the milk through a muslin cloth and wash the milk solids under running water to remove the lemon flavor.",
+      "Squeeze out any excess water from the milk solids and knead for 5 minutes to form a smooth dough.",
+      "Shape the dough into small oblongs or balls and set aside.",
+      "In another pot, combine the sugar, water, and cardamom powder and bring to a boil over medium heat. Stir until the sugar has dissolved.",
+      "Add the shaped dough pieces to the sugar syrup and cook for 10-12 minutes, stirring occasionally, until the chomchoms have doubled in size and are cooked through.",
+      "Turn off the heat and add the soaked saffron and chopped pistachios to the pot.",
+      "Allow the chomchoms to cool in the syrup before transferring to a serving dish.",
+      "Garnish with silver leaf and serve chilled."
+    ]
+  },
+  {
+    "_id": "16",
+    "img": "/images/menu-img/dessert-item/Falooda.jpg",
+    "Category_id": 5,
+    "name": "Falooda",
+    "type": "Dessert",
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "name": "Falooda sev",
+        "quantity": "100g",
+        "notes": "vermicelli noodles made from corn starch"
+      },
+      {
+        "name": "Milk",
+        "quantity": "500ml",
+        "notes": "full-fat"
+      },
+      {
+        "name": "Rose syrup",
+        "quantity": "4 tbsp",
+        "notes": "adjust to taste"
+      },
+      {
+        "name": "Vanilla ice cream",
+        "quantity": "4 scoops"
+      },
+      {
+        "name": "Basil seeds",
+        "quantity": "2 tbsp",
+        "notes": "also known as sabja seeds"
+      },
+      {
+        "name": "Chopped mixed nuts",
+        "quantity": "2 tbsp",
+        "notes": "such as almonds, cashews, and pistachios"
+      },
+      {
+        "name": "Cherry or strawberry",
+        "quantity": "1",
+        "notes": "for garnish"
+      }
+    ],
+    "instructions": [
+      "Soak the basil seeds in 1/2 cup of water for 30 minutes.",
+      "Cook the falooda sev in boiling water for 8-10 minutes or until soft. Drain and rinse with cold water to prevent sticking.",
+      "In a glass, add 1 tbsp of rose syrup and a few basil seeds.",
+      "Add a layer of the cooked falooda sev.",
+      "Add a scoop of vanilla ice cream.",
+      "Repeat the layers until the glass is almost full.",
+      "Pour the milk over the layers, leaving some space on top for the chopped nuts.",
+      "Add a few chopped nuts on top and garnish with a cherry or strawberry.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "_id": "17",
+    "img": "/images/menu-img/dessert-item/jilapi.jpg",
+    "Category_id": 5,
+    "name": "Jilapi",
+    "type": "Dessert",
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Corn flour",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Baking powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp",
+        "notes": "for color"
+      },
+      {
+        "name": "Yogurt",
+        "quantity": "1/2 cup",
+        "notes": "sour"
+      },
+      {
+        "name": "Water",
+        "quantity": "1/2 cup",
+        "notes": "room temperature"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Cardamom",
+        "quantity": "3",
+        "notes": "crushed"
+      },
+      {
+        "name": "Saffron",
+        "quantity": "a pinch",
+        "notes": "dissolved in 1 tbsp of warm water"
+      },
+      {
+        "name": "Oil",
+        "quantity": "for frying"
+      }
+    ],
+    "instructions": [
+      "In a mixing bowl, combine the all-purpose flour, corn flour, baking powder, and turmeric powder. Mix well.",
+      "Add the sour yogurt and water. Mix well to form a smooth batter. The consistency should be similar to a pancake batter.",
+      "Cover the bowl with a lid or plastic wrap and let the batter ferment for 6-8 hours, or overnight at room temperature.",
+      "After the batter has fermented, heat the sugar and water in a saucepan on medium heat. Stir until the sugar dissolves.",
+      "Add the crushed cardamom and saffron. Let the mixture come to a boil and then simmer on low heat for 10-15 minutes until it thickens into a syrup.",
+      "Heat oil in a deep frying pan or wok over medium heat.",
+      "Pour the batter into a piping bag or squeeze bottle. Pipe the batter into the hot oil in a circular motion to form spiral shapes. Fry until golden brown on both sides.",
+      "Remove the fried jilapi with a slotted spoon and immediately dip them into the warm syrup. Let them soak for a few minutes before serving."
+    ]
+  },
+  {
+    "_id": "18",
+    "img": "/images/menu-img/dessert-item/payesh.jpg",
+    "Category_id": 5,
+    "name": "Payesh",
+    "type": "Dessert",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Gobindobhog Rice",
+        "quantity": "1/2 cup",
+        "notes": "rinsed and drained"
+      },
+      {
+        "name": "Milk",
+        "quantity": "1 liter"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "1/2 cup",
+        "notes": "adjust to taste"
+      },
+      {
+        "name": "Green Cardamom",
+        "quantity": "4",
+        "notes": "crushed"
+      },
+      {
+        "name": "Bay leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Raisins",
+        "quantity": "2 tbsp",
+        "notes": "optional"
+      },
+      {
+        "name": "Almonds",
+        "quantity": "2 tbsp",
+        "notes": "sliced and blanched, optional"
+      },
+      {
+        "name": "Pistachios",
+        "quantity": "2 tbsp",
+        "notes": "sliced, optional"
+      }
+    ],
+    "instructions": [
+      "In a heavy-bottomed pot, bring the milk to a boil over medium-high heat.",
+      "Add the rinsed and drained rice, bay leaf, and crushed cardamom to the pot.",
+      "Stir the mixture frequently to prevent the rice from sticking to the bottom of the pot.",
+      "Lower the heat to medium-low and let the rice cook for about 1 hour or until the milk has thickened and the rice is cooked through.",
+      "Stir in the sugar, raisins, sliced almonds, and pistachios, and let the mixture simmer for another 10 minutes until the sugar has dissolved and the nuts have softened.",
+      "Remove the bay leaf from the pot and discard.",
+      "Serve the payesh warm or chilled, garnished with additional sliced nuts, if desired."
+    ]
+  },
+  {
+    "_id": "19",
+    "img": "/images/menu-img/drinks/borhani.jpg",
+    "Category_id": 6,
+    "name": "Borhani",
+    "type": "Beverage",
+    "cuisine": "Bangladeshi",
+    "ingredients": [
+      {
+        "name": "Yogurt",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Water",
+        "quantity": "2 cups"
+      },
+      {
+        "name": "Mint leaves",
+        "quantity": "1/2 cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "Coriander leaves",
+        "quantity": "1/2 cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "3-4",
+        "notes": "chopped"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 inch",
+        "notes": "grated"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "In a blender, mix the yogurt, water, mint leaves, coriander leaves, green chili, grated ginger, cumin powder, salt, sugar, and lemon juice until smooth.",
+      "Taste and adjust the seasoning, adding more salt or sugar as needed.",
+      "Chill the borhani in the refrigerator for at least 30 minutes.",
+      "Serve the borhani in glasses, garnished with a sprig of mint leaves or a slice of lemon."
+    ]
+  },
+  {
+    "_id": "20",
+    "img": "/images/menu-img/drinks/lacci.jpg",
+    "Category_id": 6,
+    "name": "Lassi",
+    "type": "Beverage",
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "name": "Yogurt",
+        "quantity": "1 cup",
+        "notes": "chilled"
+      },
+      {
+        "name": "Water",
+        "quantity": "1/2 cup",
+        "notes": "chilled"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "2 tbsp",
+        "notes": "or to taste"
+      },
+      {
+        "name": "Cardamom powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Ice cubes",
+        "quantity": "a few"
+      },
+      {
+        "name": "Mint leaves",
+        "quantity": "for garnish"
+      }
+    ],
+    "instructions": [
+      "In a blender, combine the yogurt, water, sugar, and cardamom powder. Blend until smooth.",
+      "Add a few ice cubes and blend again until smooth.",
+      "Pour the lassi into glasses and garnish with mint leaves.",
+      "Serve chilled and enjoy!"
+    ]
+  }
+  
+  
+]

@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000
 
 const chef = require('./data/chef.json')
 const recipe = require('./data/recipe.json')
+const food = require('./data/category.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
@@ -18,6 +19,13 @@ app.get('/chef', (req, res) => {
 app.get('/recipe', (req, res) => {
   res.send(recipe)
 })
+
+
+app.get('/food', (req, res) => {
+  res.send(food)
+})
+
+
 
 
 app.get('/chef/:id', (req, res) =>{
