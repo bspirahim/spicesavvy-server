@@ -1,60 +1,56 @@
 [
-   
-    {
-      "id": 1,
-      "name": "Ahmed Hossain",
-      "experience": 10,
-      "recipes": 20,
-      "likes": 1500,
-      "img": "/images/all-chef/ahmed-hossain.jpg",
-      "short_bio": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
-    },
-    {
-      "id": 2,
-      "name": "Asad Latif",
-      "experience": 5,
-      "recipes": 50,
-      "likes": 5000,
-      "img": "/images/all-chef/asad-latif.jpg",
-      "short_bio": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
-    },
-    {
-        "id": 3,
-        "name": "Mr. Feroze Khan",
-        "experience": 2,
-        "recipes": 10,
-        "likes": 800,
-        "img": "/images/all-chef/feroze.webp",
-        "short_bio": "Manik Miah has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”."
-      
-    },
-    {
-      "id": 4,
-      "name": "Manik Miah",
-      "experience": 1,
-      "recipes": 5,
-      "likes": 200,
-      "img": "/images/all-chef/manik.jpg",
-      "short_bio": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”."
-    },
-    {
-      "id": 5,
-      "name": "Shelly Nuruzzaman",
-      "experience": 4,
-      "recipes": 30,
-      "likes": 3000,
-      "img": "/images/all-chef/Shelly-Nuruzzaman.jpg",
-      "short_bio": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. "
-    },
-    {
-      "id": 6,
-      "name": "Mr. Tony",
-      "experience": 6,
-      "recipes": 70,
-      "likes": 10000,
-      "img": "/images/all-chef/tony.jpg",
-      "short_bio": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea."
-    }
-  ]
-  
-  
+  {
+    "id": 1,
+    "name": "Ahmed Hossain",
+    "experience": 10,
+    "recipes": 20,
+    "likes": 1500,
+    "img": "/images/all-chef/ahmed-hossain.jpg",
+    "short_bio": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+  },
+  {
+    "id": 2,
+    "name": "Asad Latif",
+    "experience": 5,
+    "recipes": 50,
+    "likes": 5000,
+    "img": "/images/all-chef/asad-latif.jpg",
+    "short_bio": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+  },
+  {
+    "id": 6,
+    "name": "Mr. Tony",
+    "experience": 6,
+    "recipes": 70,
+    "likes": 10000,
+    "img": "/images/all-chef/tony.jpg",
+    "short_bio": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea."
+  },
+  {
+    "id": 4,
+    "name": "Manik Miah",
+    "experience": 1,
+    "recipes": 5,
+    "likes": 200,
+    "img": "/images/all-chef/manik.jpg",
+    "short_bio": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”."
+  },
+  {
+    "id": 5,
+    "name": "Shelly Nuruzzaman",
+    "experience": 4,
+    "recipes": 30,
+    "likes": 3000,
+    "img": "/images/all-chef/Shelly-Nuruzzaman.jpg",
+    "short_bio": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. "
+  },
+  {
+    "id": 3,
+    "name": "Mr. Feroze Khan",
+    "experience": 2,
+    "recipes": 10,
+    "likes": 800,
+    "img": "/images/all-chef/feroze.webp",
+    "short_bio": "Manik Miah has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”."
+  }
+]

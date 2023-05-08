@@ -216,7 +216,7 @@
     "chef_id": 2,
     "rating": 4.6,
     "name": "Bhuna Khichuri",
-    "Ingredients": [
+    "ingredients": [
       {
         "name": "Gobindobhog rice",
         "Quantity": "1 cup"
@@ -396,7 +396,6 @@
     "chef_id": 2,
     "rating": 4.7,
     "name": "Sorshe Ilish",
-    "type": "Main Dish",
     "ingredients": [
       {
         "name": "Hilsa fish",
@@ -471,7 +470,6 @@
     "chef_id": 3,
     "rating": 4.7,
     "name": "Shutki Bhuna",
-    "type": "Main Dish",
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -590,7 +588,6 @@
     "chef_id": 3,
     "rating": 4.8,
     "name": "Beef Curry",
-    "type": "Main Dish",
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -674,7 +671,6 @@
     "chef_id": 4,
     "rating": 4.8,
     "name": "Chicken Roast",
-    "type": "Main Dish",
     "cuisine": "International",
     "ingredients": [
       {
@@ -740,7 +736,6 @@
     "chef_id": 4,
     "rating": 4.8,
     "name": "Kala Bhuna",
-    "type": "Main Dish",
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -819,7 +814,6 @@
     "chef_id": 4,
     "rating": 4.8,
     "name": "Mutton Curry",
-    "type": "Main Dish",
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -902,7 +896,6 @@
     "chef_id": 5,
     "rating": 4.5,
     "name": "Bhapa Pitha",
-    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -949,7 +942,6 @@
     "chef_id": 5,
     "rating": 4.5,
     "name": "Nakshi Pitha",
-    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -1007,7 +999,6 @@
     "chef_id": 5,
     "rating": 4.7,
     "name": "Chomchom",
-    "type": 4.7,
     "cuisine": "Bengali",
     "ingredients": [
       {
@@ -1066,7 +1057,6 @@
     "chef_id": 6,
     "rating": 4.7,
     "name": "Falooda",
-    "type": 4.7,
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -1123,7 +1113,6 @@
     "chef_id": 6,
     "rating": 4.7,
     "name": "Jilapi",
-    "type": 4.7,
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -1194,7 +1183,6 @@
     "chef_id": 6,
     "rating": 4.7,
     "name": "Payesh",
-    "type": 4.7,
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -1250,10 +1238,9 @@
     "_id": "19",
     "img": "/images/menu-img/drinks/borhani.jpg",
     "category_id": 6,
-    "chef_id": 7,
+    "chef_id": 1,
     "rating": 4.6,
     "name": "Borhani",
-    "type": "Beverage",
     "cuisine": "Bangladeshi",
     "ingredients": [
       {
@@ -1311,11 +1298,10 @@
   {
     "_id": "20",
     "img": "/images/menu-img/drinks/lacci.jpg",
-    "chef_id": 7,
+    "chef_id": 6,
     "category_id": 6,
     "rating": 4.6,
     "name": "Lassi",
-    "type": "Beverage",
     "cuisine": "Indian",
     "ingredients": [
       {
@@ -1353,6 +1339,4 @@
       "Serve chilled and enjoy!"
     ]
   }
-  
-  
 ]
